@@ -17,8 +17,18 @@ Halı saha rezervasyonu ve yönetimi için geliştirilmiş full-stack mobil uygu
 ### 🛡️ Güvenlik
 - Firebase Admin SDK ile güvenli kimlik doğrulama
 - JWT token bazlı oturum yönetimi
-- Bcrypt ile şifreli password hashleme
+- Bcrypt ile şifreli password hashlame
 - Environment variables ile hassas bilgilerin korunması
+
+## 📱 Ekran Görüntüleri
+
+<div align="center">
+  <img src="screenshots/Adsız tasarım.png" alt="Giriş, Kayıt, Ana Sayfa ve Profil Ekranları" width="100%" />
+  <p><em>Giriş, Kayıt, Ana Sayfa ve Profil Ekranları</em></p>
+  
+  <img src="screenshots/Adsız tasarım (1).png" alt="Kadro, İlanlar, Randevu Detay ve Randevu Oluşturma Ekranları" width="100%" />
+  <p><em>Kadro Oluşturma, İlanlar, Randevu Detay ve Randevu Oluşturma Ekranları</em></p>
+</div>
 
 ## 🏗️ Teknoloji Stack
 
